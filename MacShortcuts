@@ -1,0 +1,38 @@
+/*To  lock Mac using keyboard : press Control + Shift + Power Button 
+
+Command B + Spacebar B = Open Spotlight search 
+
+Type "cd ~/Documents " shows which folder path currently I am in " inn terminal window Or simply type  pwd  ( print working directory) 
+
+Cd to change folder , cd .. to back and cd ../.. to back two level 
+
+  Ls   show everything in the current folder : ls  
+
+Clear - clear the terminal  
+
+Mkdir  - make directory : mkdir <foldername> 
+
+Rmdir – remove directory : rmdir <folder name> : folder should be empty before removal 
+
+Touch to create a new file : like inside a folder : type touch new-file.exention : eg : touch abc.txt 
+
+Rm filename remove the file  : rm abc.txt 
+
+Open folder / file : to open the file or folder  
+
+History give the commands run onn the terminal ; type history  :history 10 gives only 10 commands .. so we can limit it 
+
+Cat : to see contents of a particular file : cat file-name 
+
+Cat shows the content in the terminal , but open shows the file content in a new window 
+
+Say : this will all terminal speak what we type inside the quotes : like say "hi" 
+
+Use Fn Key + Delete button : works as delete feature in win keybboar instead of back ward delete 
+
+Delete entire line from a line : use Command Button + X  
+
+Command button + left Arrow to reach end of the current line, Use Fn+CMD+Right Arrow key to select the entire line 
+
+To select the folder address / file address, right click the file or folder , then press and hold Option key , then existing items few of them change, in that select the option copy it with pathname 
+*/
